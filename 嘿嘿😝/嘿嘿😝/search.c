@@ -19,8 +19,8 @@ void search_test(void)
     {
         int result = binary_search(a, 0, 49, i);
         printf("%d\n",result);
-
     }
+    // 随便修改了一下
 }
 // 递归查找
 int binary_search_recursive(int a[],int low,int high,int key)
